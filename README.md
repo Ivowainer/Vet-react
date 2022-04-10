@@ -1,4 +1,4 @@
-### Veterinaria React CRUD 🐕
+### Vet React CRUD 🐕
 
 <img width="35%" align="right" alt="Github" src="https://c.tenor.com/41I-iMyClCgAAAAS/programmer-programming.gif" />
 
