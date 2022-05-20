@@ -1,6 +1,6 @@
 ### Vet React CRUD 🐕
 
-<img width="100%" align="right" alt="Github" src="https://c.tenor.com/41I-iMyClCgAAAAS/programmer-programming.gif" />
+<img width="200%" align="right" alt="Github" src="https://c.tenor.com/41I-iMyClCgAAAAS/programmer-programming.gif" />
 
 This is my first real project with React.
 
